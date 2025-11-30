@@ -303,8 +303,8 @@ seaborn==0.13.0
 ## 联系方式 (Contact)
 
 如有问题，请联系：
-- Email: your.email@university.edu
-- GitHub: https://github.com/yourusername/medical-ir-thesis
+- Email:  414951250@qq.com
+- GitHub: https://github.com/wsjforgit/PHDIT01Work
 
 ---
 
